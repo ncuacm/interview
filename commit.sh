@@ -1,4 +1,4 @@
 git pull origin master
 git add .
-git commit -m ":poop:"
+git commit -m ":sparkles: refresh"
 git push -u origin master
